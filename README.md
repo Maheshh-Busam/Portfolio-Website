@@ -36,6 +36,6 @@ To view this website locally, follow these steps:
 ## Contact
 
 - ✉️ **Email**: mahesh.busam2206@gmail.com
-- 🔗 **LinkedIn**: `https://www.linkedin.com/in/mahesh-busam-5a630318b/`
+- 🔗 **LinkedIn**: https://www.linkedin.com/in/mahesh-busam-5a630318b/
 - 🌐 **Personal Website/Blog**: [Your personal website/blog URL]
 
